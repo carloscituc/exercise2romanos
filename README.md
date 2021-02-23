@@ -3,8 +3,6 @@ Ejercicio 2 - Convertir números enteros del 1 al 1000 en números romanos
 
 Nombre completo autor: Carlos Alberto Cituc Chab
 
-Correo electrónico: carlos.cituc@gmail.com
-
 -- Requisitos para ejecución --
 
 1.- Tener instalado el JDK.
